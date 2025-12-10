@@ -1,0 +1,5 @@
+{
+  "name": "The Matrix Construct",
+  "description": "An immersive, interactive visual art experience inspired by The Matrix. Features a GSAP-powered digital rain, a cryptic terminal interface powered by Gemini AI (The Architect), and interactive glitch art visualizations.",
+  "requestFramePermissions": []
+}
